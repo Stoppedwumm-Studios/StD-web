@@ -21,3 +21,5 @@ app.get('/download', (req, res) => {
 app.listen(4000, () => { 
     console.log("It Works!");
 });
+
+module.exports = app
