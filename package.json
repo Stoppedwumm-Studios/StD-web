@@ -1,0 +1,15 @@
+{
+  "name": "std-web",
+  "version": "1.0.0",
+  "description": "The Stoppedwumm Downloader rewritten in nodejs with YouTube",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ytdlp-nodejs": "^0.1.4"
+  }
+}
